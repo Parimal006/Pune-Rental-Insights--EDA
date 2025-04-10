@@ -28,6 +28,7 @@ Unfurnished properties were mostly in emerging or affordable localities.
 Price per square foot varied wildly—almost painting a map of Pune’s real estate tiers.
 
 The most exciting part? Seeing patterns emerge from raw, chaotic data. That’s the magic of analysis. 🧠✨
+ Also i had made DASHBOARD for it in tool - POWER-BI you can check it out
 
 #Tools I Used:-
 1)Python 🐍 (Pandas, NumPy, Matplotlib, Seaborn).
